@@ -1,0 +1,29 @@
+package com.javacode.day2;
+
+public class Operators_In_Java {
+	
+
+	public static void main(String[] args) {
+    // Arithmetic Operators
+		   // +,-, * , /, % , ++ , --
+		
+   // Assignment Operators
+		// int i = 5; 
+		// =, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=
+		//x  +=  3 means x=x+3;
+		
+	// Comparison Operators 
+		// ==, !=, <, >, >=, <=, 
+		
+	// Logical Operators 
+		//&& - Logical And
+		// || - logical Or
+		// !- Logical not 
+		
+	// Bitwise Operators 
+		
+		//*, &,>, <,?
+		
+	}
+
+}
